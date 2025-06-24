@@ -1,2 +1,2 @@
 # FTITC
-my first demo
+my first demo in lab
